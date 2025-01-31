@@ -1,0 +1,1 @@
+This Personal Assistant project is built using C++ and allows users to open applications by command. It provides a simple command-line interface where users can input specific commands to launch various programs installed on their system.
