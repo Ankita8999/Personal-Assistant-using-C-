@@ -246,8 +246,8 @@ int main()
 */
                 else if(command=="bye" || command=="exit")
                 {
-                    cout<<"Good Bye Master Aditya, see you soon!"<<endl;
-                    string phrase = "Good Bye Master Aditya, see you soon!";
+                    cout<<"Good Bye Ankita, see you soon!"<<endl;
+                    string phrase = "Good Bye Ankita, see you soon!";
                     string command = "espeak \"" + phrase + "\"";
                     const char *charCommand = command.c_str();
                     system(charCommand);
